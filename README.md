@@ -39,7 +39,7 @@ You can also view this page on the VolcAddons [website](https://zhenga8533.githu
 
 2. **Install ChatTriggers:** You'll need [ChatTriggers](https://www.chattriggers.com) installed for advanced in-game functionality.
 
-### <u>Manual Installation:</u>
+### <u>Installation:</u>
 
 1. **Download:** Get the zip file, available on [GitHub Releases](https://github.com/zhenga853/VolcAddons/releases).
 
