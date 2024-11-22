@@ -43,7 +43,7 @@ You can also view this page on the VolcAddons [website](https://zhenga8533.githu
 
 1. **Download:** Get the zip file, available on [GitHub Releases](https://github.com/zhenga853/VolcAddons/releases).
 
-2. **Unzip:** Extract the downloaded zip file. You should now see a folder named "VolcAddons".
+2. **Unzip:** Extract the downloaded zip file (open the zip file, drag the folder labeled "VolcAddons" out or copy/paste it into the folder containing the zip file). You should now see a folder named "VolcAddons".
 
 3. **Accessing ChatTriggers:** Launch Minecraft and enter the command `/ct files` (you can also find this by going into ChatTriggers through the Minecraft configs path)
 
